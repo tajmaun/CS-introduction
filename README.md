@@ -26,3 +26,7 @@ There is lots of tutorial of Linux in youtube.
 Reddit is another underrated discussion platfrom which i found really enriched in terms of quality of contents and getting insightfull answers of queries.
 
 **What are some good subreddits for Programming/CS/Technology?** https://www.reddit.com/r/learnprogramming/comments/3e0bu9/what_are_some_good_subreddits_for/
+
+## Github Student Pack
+
+**Github student pack** : https://education.github.com/pack
