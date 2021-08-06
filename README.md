@@ -1,6 +1,6 @@
 # CS-introduction
 
-**Objective** : The objective is to inroduce various tools and resources that a CS student should have known at the beginning of their undergrad journey. The famous question like "How to approach as a new cs student" won't be answered as you will meet many smart and experienced person to asnwer this question for you.If you don't then i think you are still smart enough to find the answer for this question by doing some quick googling or knocking the right person/community.
+**Objective** : The objective is to inroduce various tools and resources that a CS student should have known at the beginning of their undergrad journey.
 
 ## Github intro :
 
